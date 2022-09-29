@@ -162,13 +162,15 @@ sup {
 }
 
 a {
-  color: #ff6e42;
+  color: rgb(101, 24, 194);
   text-decoration: none;
   background-color: transparent;
+  text-shadow: rgb(101, 24, 194);
+  
 }
 
 a:hover {
-  color: #f53900;
+  color: #042129;
   text-decoration: none;
 }
 
