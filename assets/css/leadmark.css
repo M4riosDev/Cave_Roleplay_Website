@@ -11356,13 +11356,13 @@ textarea.form-control {
 }
 
 ::-webkit-scrollbar {
-  width: 1px;
+  width: 0px;
   background: #fff;
 }
 
 ::-webkit-scrollbar-thumb {
   background: #fff;
-  border-radius: 1px;
+  border-radius: 0px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
